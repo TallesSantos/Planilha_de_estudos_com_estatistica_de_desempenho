@@ -46,4 +46,4 @@ A estrutura é composta de três planilhas. </i>
 <p><i> Coerência – Coesão(anáfora, catáfora, uso dos conectores – pronomes relativos);</i></p>
 <p><i> Interpretação de textos(Compreensão).</i></p>
 
-<b>Observação: Esse projeto não foi criado com a intenção de ser comercializado. Proibida a revenda nem distribuição.</b>
+<b>Observação: Esse projeto não foi criado com a intenção de ser comercializado. Proibida a revenda e/ou a distribuição pois é material de autoria da "Inova Concursos".</b>
