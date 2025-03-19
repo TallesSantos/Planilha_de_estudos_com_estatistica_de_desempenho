@@ -1,6 +1,6 @@
 # Planilha_de_estudos
 
-<h1>Castão resposta pré corrigido com correção automatizada e dados estatísticos dos resultados</h1> 
+<h1>Cartão resposta pré corrigido com correção automatizada e dados estatísticos dos resultados</h1> 
 <i>Planilha desenvolvida com o intuito de mensurar meu progresso e resultado em disciplinas básicas(matemática e português).
 A estrutura é composta de três planilhas. </i>
 
